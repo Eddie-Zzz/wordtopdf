@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="com.lowagie.text-2.1.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/com.lowagie.text-2.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections4-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flying-saucer-core-9.1.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flying-saucer-pdf-9.1.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsoup-1.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-examples-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-excelant-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-scratchpad-3.10-FINAL-20140208.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xdocreport-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xmlbeans-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
